@@ -1,0 +1,57 @@
+{
+    "DB-G1D25492406015":
+{"Battery":{"WakeUpFailedSum":"01","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25492406015":
+{"Sys":{"CpuSys":"11","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25492406979":
+{"Battery":{"WakeUpFailedSum":"02","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25492406979":
+{"Sys":{"CpuSys":"12","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25515965912":
+{"Battery":{"WakeUpFailedSum":"03","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25515965912":
+{"Sys":{"CpuSys":"13","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25517383669":
+{"Battery":{"WakeUpFailedSum":"04","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25517383669":
+{"Sys":{"CpuSys":"14","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25515966238":
+{"Battery":{"WakeUpFailedSum":"05","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25515966238":
+{"Sys":{"CpuSys":"15","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25515966322":
+{"Battery":{"WakeUpFailedSum":"06","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25515966322":
+{"Sys":{"CpuSys":"16","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25515966421":
+{"Battery":{"WakeUpFailedSum":"07","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25515966421":
+{"Sys":{"CpuSys":"17","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G1D25515966585":
+{"Battery":{"WakeUpFailedSum":"08","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G1D25515966585":
+{"Sys":{"CpuSys":"18","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+},
+ "DB-G11111111111":
+{"Battery":{"WakeUpFailedSum":"09","PirWakeupCnt":"0","McuResetCnt":"9","WakeUpStreamOkSum":"0","PirFalseWakeupCnt":"0","HwCode":"873021_6","McuRun":"13334","SendStreamTime":"265","SocketDisconnect":"11","BcamOnline":"1","SocketConnect":"11","SocRun":"0","NvrKeepAliveCnt":"51","WifiOfflineCnt":"1","WifiOfflineTime":"24","NvrWakeupCnt":"43","WakeUpSum":"0","WifiOnlineTime":"2063","ChargingState":"0","Battery":"100"}
+},
+	"GB-G11111111111":
+{"Sys":{"CpuSys":"19","AppRSS":"13312","NetworkCableDisconnect":"","ProtocolName":"","MemLow":"","ResetType":"key","RebootCnt":"8","CpuIdel":"98","Uptime":"0-2-0-8","IoctlBlock":"","DeviceID":"G1D25515966421","SubDeviceID":"","AppVMSize":"48128","IotdPid":"530","Reboot":"2023/03/22 14:17:33","MemFree":"30720","CpuUsr":"1","CpuHigh":"","FdNum":"29","DataBlock":"","MemAvail":"26624","DhcpFailed":"89","RebootType":"","FwVersion":"3.6.0.0","Reset":"2023/03/13 10:00:33"}
+}
+
+}
