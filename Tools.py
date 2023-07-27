@@ -1,10 +1,7 @@
 import json
 import time
-import pandas as pd
-import xlrd
+
 import os
-import pytest
-from openpyxl import Workbook,load_workbook
 '''
 #1.读取Name.txt配置文件的内容
 #2.给基站重新编写名称：类似XXX->GB-XXX
@@ -97,6 +94,8 @@ class Tools():
     def readJson(self)->list:
 # 6.1 读取JSON文件源json编码格式给到"ANSI"
         json_file = 'JSON1.json'
+        Sys = 'Sys'
+        Battery = 'Battery'
         with open(json_file, 'r', encoding='utf-8') as json_obj:
             json_data = json.load(json_obj)
             #6.2 使用Tool工具类从Name.txt里面读取数据,
@@ -108,13 +107,11 @@ class Tools():
             for key in json_data.keys():
                 # print(key)
                 if key in DB_name[0]:
-                    data_DB = json_data[key]['Battery']
-
+                    data_DB = json_data[key][Battery]
                     data.append(data_DB)
                 else:
-                    data_GB = json_data[key]['Sys']
-                    # data_GB = json_data[key]['Sys']
-                    data_DB.update(data_GB)
+                    # print(json_data[key][Sys])
+                    data_DB.update(json_data[key][Sys])
         return data
 
 
@@ -147,7 +144,6 @@ class Tools():
                 Device[i].append(data[i][nameD])
             i = i + 1
 
-        print(Device)
         i = 0
         DTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
@@ -181,7 +177,7 @@ class Tools():
                 file.write(str(Device[m][n]))
                 file.write('\t')
             file.write('\n')
-            # print(Device[m])
+            print(Device[m])
         file.close()
 
 
